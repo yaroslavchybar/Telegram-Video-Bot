@@ -1,4 +1,4 @@
-# 📱 Telegram Video Message Bot
+<h1 align="center">📱 Telegram Video Message Bot</h1>
 
 ### ⭐About the Project
 This project is a Telegram bot designed to convert regular videos into round video messages (video notes). Perfect for creating engaging circular video messages that stand out in Telegram chats. Simply send a video, and the bot will handle the conversion automatically.
@@ -75,16 +75,21 @@ This project is a Telegram bot designed to convert regular videos into round vid
 
 We welcome all forks, suggestions, and improvements to this project. Your contributions help make this project better for everyone. Whether it's fixing a bug, adding a feature, or improving documentation, we appreciate your help in making this project the best it can be.
 
-### 🔧 Troubleshooting
-- Ensure FFmpeg is properly installed
-- Check video meets size/duration limits
-- Verify bot token is correct
-- Check internet connection
-- Contact developer for persistent issues
+### 📝 License
+This project is MIT licensed. See LICENSE for more information.
 
-### 📬 Support
-- Developer: [@B7XX7B](https://t.me/B7XX7B)
-- Issues: Use GitHub issues tracker
-- Feature requests: Welcome via issues
+### 🌟 Support
+If you find this project useful:
+
+- Give it a star ⭐
+- Share with others 🔄
+- Consider contributing 🛠️
+
+---
+
+<div align="center">
+    <h4>Built with ❤️ by <a href="https://t.me/bohd4nx" target="_blank">Bohdan</a></h4>
+</div>
+
 
 
